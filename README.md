@@ -1,0 +1,2 @@
+# ArduinoVoiceDetection
+Arduino三针脚声音检测器
